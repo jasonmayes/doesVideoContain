@@ -1,6 +1,9 @@
 /**
- * Video.doesItContain() library powered by Web AI
+ * doesVideoContain() library powered by Web AI
  * By Jason Mayes 2024.
+ *
+ * For any given local video, extract screenshots of moments in time while watching it,
+ * that match some criteria that you can state in plain text. For example: "a cat wearing a hat"
  *
  * Connect: https://www.linkedin.com/in/webai/
  * Learn Web AI: https://goo.gle/Learn-WebAI
