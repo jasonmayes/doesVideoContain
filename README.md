@@ -11,7 +11,7 @@ Furthermore, as you are working with local files that never get uploaded to a cl
 
 ## Show me a demo
 
-The below GIF was captured in Chrome on a PC with an NVIDIA 1070 in real time. Your mileage may vary depending on your GPU.
+The below GIF ([more detailed YouTube video here](https://www.youtube.com/watch?v=3FrYr13RL1E)) was captured in Chrome on a PC with an NVIDIA 1070 in real time. Your mileage may vary depending on your GPU.
 
 Keep an eye at the bottom of the capture where the screenshots of matched parts of the video are rendered:
 
