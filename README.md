@@ -2,7 +2,7 @@
 
 **The initial release of this little utility library allows you to ask the most common question when working with video content - does the video contain something you care about?**
 
-Well now you can let AI do the watching with you and automatically grab screenshots for the moments that matter to you using plain english sentences to explain what you want as if it were your friend :-)
+Well now you can let AI do the watching with you and automatically grab screenshots for the moments that matter to you using plain English sentences to explain what you want as if it were your friend :-)
 
 Even better this works entirely client side in the web browser as I’m using #WebAI to run the AI models, so that means once the webpage has downloaded, this can work entirely offline - protecting your privacy, and with no costly APIs to pay for! 
 
