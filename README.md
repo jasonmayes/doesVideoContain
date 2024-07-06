@@ -1,4 +1,4 @@
-# doesVideoContain
+# doesVideoContain()
 
 **The initial release of this little utility library allows you to ask the most common question when working with video content - does the video contain something you care about?**
 
