@@ -31,6 +31,14 @@ Try it for yourself right now via my hosted CodePen demo below!
 
 As this is something I made in under a day, it's not a perfect interface as my focus was just getting an MVP working, so I welcome feedback and will likely improve this going forward. For now though it's real simple:
 
+In your HTML file use a module script include:
+
+```
+<script type="module" src="YOUR/PATH/TO/doesVideoContain.js"></script>
+```
+
+Then in your JavaScript (also set to be module):
+
 ```
 // Import this library - host the doesVideoContain.js file from this repo
 // on your own server on the same domain (or enable CORS headers if not)
