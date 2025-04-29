@@ -9,7 +9,7 @@
  * Learn Web AI: https://goo.gle/Learn-WebAI
  **/
 
-import {pipeline, env, Florence2ForConditionalGeneration, AutoProcessor, AutoTokenizer, RawImage} from "https://cdn.jsdelivr.net/gh/jasonmayes/doesVideoContain@main/third_party/transformers.min.js";
+import {pipeline, env, Florence2ForConditionalGeneration, AutoProcessor, AutoTokenizer, RawImage} from "https://cdn.jsdelivr.net/npm/@huggingface/transformers@3.5.0/dist/transformers.min.js";
 
 export const doesVideoContain = (function () {
   
